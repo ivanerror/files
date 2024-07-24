@@ -17,7 +17,7 @@
     "assets": [],
     "fonts": {
         "list": [
-            {
+{
                 "origin": 0,
                 "fPath": "",
                 "fClass": "",
@@ -26,6 +26,16 @@
                 "fStyle": "Bold",
                 "fName": "Helvetica-Bold",
                 "ascent": 71.8536376953125
+            },
+            {
+                "origin": 0,
+                "fPath": "",
+                "fClass": "",
+                "fFamily": "Helvetica",
+                "fWeight": "",
+                "fStyle": "Regular",
+                "fName": "Helvetica",
+                "ascent": 71.8994140625
             }
         ]
     },
